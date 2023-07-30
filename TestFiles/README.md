@@ -1,8 +1,8 @@
-# Assignment - 4 DASS
+# TESTER FILE: DASS
 
 ### Yash Shivhare - 2021101105
 
-Write unit tests for the codebase provided for assignment 3. The objective of unit testing is to observe how smaller chunks of code function in isolation to
+Wrote unit tests for the game we built. The objective of unit testing is to observe how smaller chunks of code function in isolation to
 ensure that they meet the expectations set for them. These expectations are not only in terms of
 the correctness of the value that is output, but also things such as the type of the output, the fine
 grained structure of the output, and the states of any external variables being modified by the
