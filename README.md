@@ -1,4 +1,4 @@
-# Assignment 3.1
+# Clash Of Clans
 
 - Everything mentioned in the assignment has been implemented.
 - **Bonus** :
